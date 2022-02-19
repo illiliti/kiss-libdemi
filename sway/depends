@@ -1,0 +1,17 @@
+cairo
+flex make
+json-c
+libevdev
+libinput
+libxkbcommon
+linux-headers make
+mesa
+meson make
+pango
+pcre
+pixman
+pkgconf make
+seatd
+wayland
+wayland-protocols make
+wlroots

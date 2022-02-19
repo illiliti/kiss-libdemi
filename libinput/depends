@@ -1,0 +1,6 @@
+libdemi
+libevdev
+linux-headers make
+meson         make
+mtdev
+pkgconf       make
