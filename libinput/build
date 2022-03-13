@@ -17,6 +17,7 @@ meson \
     -Ddocumentation=false \
     -Dtests=false \
     -Dlibwacom=false \
+    -Dtools=false \
     -Denum-backend=demi \
     . output
 
