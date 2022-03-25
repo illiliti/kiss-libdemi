@@ -12,6 +12,7 @@ meson \
     -Dtray=disabled \
     -Dswaybar=false \
     -Dswaynag=false \
+    -Dudev=disabled \
     . build
 
 ninja -C build
